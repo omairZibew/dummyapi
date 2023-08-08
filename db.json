@@ -8,9 +8,29 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "afro": [
-    {"id": 1, "name": "omair", "phone": "1231231231", "countryCode": "91", "age": 15, "email": "o@g.com", "gender": "Male"},
-    {"id": 2, "name": "tahsin", "phone": "2342342342", "countryCode": "91", "age": 99, "email": "t@g.com", "gender": "Female"},
-    {"id": 3, "name": "muqseed", "phone": "3453453453", "countryCode": " 91", "age": 76, "email": "m@g.com", "gender": "Male"}
-  ]
+  "afro": 
+    [
+      {"id": 1, "name": "John", "phone": "1234567890", "countryCode": "1", "age": 25, "email": "john@example.com", "gender": "Male"},
+      {"id": 2, "name": "Emily", "phone": "9876543210", "countryCode": "33", "age": 30, "email": "emily@example.com", "gender": "Female"},
+      {"id": 3, "name": "Michael", "phone": "5551234567", "countryCode": "49", "age": 40, "email": "michael@example.com", "gender": "Male"},
+      {"id": 4, "name": "Sophia", "phone": "3217896540", "countryCode": "44", "age": 22, "email": "sophia@example.com", "gender": "Female"},
+      {"id": 5, "name": "Daniel", "phone": "9870123456", "countryCode": "39", "age": 29, "email": "daniel@example.com", "gender": "Male"},
+      {"id": 6, "name": "Olivia", "phone": "4567890123", "countryCode": "81", "age": 27, "email": "olivia@example.com", "gender": "Female"},
+      {"id": 7, "name": "William", "phone": "5557891234", "countryCode": "44", "age": 35, "email": "william@example.com", "gender": "Male"},
+      {"id": 8, "name": "Emma", "phone": "3219876543", "countryCode": "33", "age": 24, "email": "emma@example.com", "gender": "Female"},
+      {"id": 9, "name": "David", "phone": "7890123456", "countryCode": "49", "age": 31, "email": "david@example.com", "gender": "Male"},
+      {"id": 10, "name": "Ava", "phone": "9876543219", "countryCode": "81", "age": 28, "email": "ava@example.com", "gender": "Female"},
+      {"id": 11, "name": "James", "phone": "2345678901", "countryCode": "1", "age": 23, "email": "james@example.com", "gender": "Male"},
+      {"id": 12, "name": "Mia", "phone": "6543219870", "countryCode": "33", "age": 26, "email": "mia@example.com", "gender": "Female"},
+      {"id": 13, "name": "Joseph", "phone": "4567890123", "countryCode": "44", "age": 33, "email": "joseph@example.com", "gender": "Male"},
+      {"id": 14, "name": "Isabella", "phone": "8765432109", "countryCode": "81", "age": 21, "email": "isabella@example.com", "gender": "Female"},
+      {"id": 15, "name": "Daniel", "phone": "2345678901", "countryCode": "1", "age": 32, "email": "daniel2@example.com", "gender": "Male"},
+      {"id": 16, "name": "Ella", "phone": "8901234567", "countryCode": "33", "age": 29, "email": "ella@example.com", "gender": "Female"},
+      {"id": 17, "name": "Benjamin", "phone": "5678901234", "countryCode": "44", "age": 37, "email": "benjamin@example.com", "gender": "Male"},
+      {"id": 18, "name": "Liam", "phone": "3456789012", "countryCode": "49", "age": 25, "email": "liam@example.com", "gender": "Male"},
+      {"id": 19, "name": "Chloe", "phone": "9012345678", "countryCode": "81", "age": 24, "email": "chloe@example.com", "gender": "Female"},
+      {"id": 20, "name": "Alexander", "phone": "6789012345", "countryCode": "1", "age": 28, "email": "alexander@example.com", "gender": "Male"}
+    ]
+    
+  
 }
